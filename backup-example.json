@@ -1,0 +1,5 @@
+{
+  "tasks": [{"text": "Sample task", "done": false}],
+  "budget": [{"desc": "Sample income", "amt": 100}],
+  "prompts": ["Example prompt"]
+}
